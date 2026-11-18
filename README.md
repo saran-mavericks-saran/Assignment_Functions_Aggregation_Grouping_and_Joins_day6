@@ -1,0 +1,1 @@
+This repository contains practical SQL solutions and query implementations covering core relational database concepts: built-in SQL functions, data aggregation, grouping/filtering summaries, and multi-table joins. These foundational patterns are essential for data engineering, analytics, and Text-to-SQL / enterprise data pipelines.
